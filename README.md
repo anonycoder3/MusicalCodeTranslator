@@ -32,4 +32,3 @@ Z = E3;
 There is also a playback option (currently for Windows only) which dynamically converts each of the above into frequencies, then calculates the duration of each note based on a tempo and word-length such that each word lasts one beat (a one-letter will last one beat; each letter in a two-letter word will last half a beat each; each letter in a three-letter word will last a third of a beat each; etc).
 
 My solution is not perfect as it stands; I was going to incorporate punctuation and turn them into rests. Also, the playback uses Console.Beep which is only availible on Windows. Plus it might be nice to have a GUI / be able to put it onto a phone so I could message people with my code. I will try to continue improving this project, though I have decided to start job hunting again in 2025.
-# MusicalCodeTranslator
