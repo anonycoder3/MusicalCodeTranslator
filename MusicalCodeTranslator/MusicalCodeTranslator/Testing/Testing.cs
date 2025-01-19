@@ -2,7 +2,7 @@
 
 public class Testing
 {
-    // Testing... (I actually don't know how to unit test yet, but this was me doing some manual tests).
+    // Testing... (Whilst I do have experience with automated testing software like Jest, Playwright, and React Testing Library, I haven't gotten to the section in my online course about unit testing in C# specifically yet. The following are some manual tests I performed).
 
     //var translateMe1 = "The fox jumped over the lazy dog.";
     //var translateMe2 = "abcdefghijklmnopqrstuvwxyz";
